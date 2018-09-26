@@ -5,4 +5,6 @@ You have to replace the API with your own API and then set the names for latitud
 
 You can change the markers opacity, HeatPoints intensity as per your requirement.
 
-The data used here is in JSON format
+The data used here is in JSON format.
+
+The lealfet-heat.js has been modified.
