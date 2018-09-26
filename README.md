@@ -7,4 +7,5 @@ You can change the markers opacity, HeatPoints intensity as per your requirement
 
 The data used here is in JSON format.
 
-The lealfet-heat.js has been modified.
+The lealfet-heat.js and leaflet.css has been modified to make some customizatons.
+
