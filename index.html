@@ -28,7 +28,7 @@
         .then((response) => response.json())
         .then((response) => {
             let data = response.data;
-            for (let i=0; i<result.length; i++) {
+            for (let i=0; i<data.length; i++) {
 
                 let lat = parseFloat(data[i]["latitude"]);
                 let lon = parseFloat(data[i]["longitude"]);
